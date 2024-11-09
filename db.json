@@ -1,0 +1,115 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Ana",
+            "surname":"Leahu",
+            "photo-url":"https://media.istockphoto.com/id/1332100919/vector/man-icon-black-icon-person-symbol.jpg?s=612x612&w=0&k=20&c=AVVJkvxQQCuBhawHrUhDRTCeNQ3Jgt0K1tXjJsFy1eg=",
+            "balance":1500
+            
+        },
+        {
+            "id":2,
+            "name":"Dan",
+            "surname":"Sarbu",
+            "photo-url":"https://www.iconpacks.net/icons/1/free-user-icon-295-thumb.png",
+            "balance":2000
+            
+        },
+        {
+            "id":3,
+            "name":"Maria",
+            "surname":"Gancota",
+            "photo-url":"https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNy1hZXctMTY1LWtsaGN3ZWNtLmpwZw.jpg",
+            "balance":1200
+            
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "name":"Milka",
+            "description":"Ciocolata cu lapte",
+            "price":20,
+            "author_id":1,
+            "photo_url":"https://digitalcontent.api.tesco.com/v2/media/ghs/f90087c9-098e-4bc6-a48d-7f83e9930243/100673b7-3a78-4f0c-9e64-2610de7e7cc4_1707234474.jpeg?h=960&w=960"
+
+        },
+        {
+            "id":2,
+            "name":"Raffaello",
+            "description":"Ciocolata cu cocos",
+            "price":70,
+            "author_id":1,
+            "photo_url":"https://surprize.md/wp-content/uploads/2021/08/bombom-ferrero-raffaello-15-un-D_NQ_NP_892693-MLB31673791194_082019-F-_-1575052426-450x414.jpg"
+
+        },
+        {
+            "id":3,
+            "name":"ferrero rocher",
+            "description":"Ciocolata cu lapte si alune",
+            "price":70,
+            "author_id":1,
+            "photo_url":"https://surprize.md/wp-content/uploads/2021/08/ferrero-rocher-200g-16-pieces-_-1575054611-450x450.jpg"
+
+        },
+        {
+            "id":4,
+            "name":"snickers",
+            "description":"Ciocolata cu lapte,caramel si alune",
+            "price":20,
+            "author_id":1,
+            "photo_url":"https://www.snickers.com/cdn-cgi/image/width=600,height=600,f=auto,quality=90/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png"
+        },
+        {
+            "id":5,
+            "name":"Twix",
+            "description":"Ciocolata cu lapte,caramel si biscuit",
+            "price":20,
+            "author_id":1,
+            "photo_url":"https://upload.wikimedia.org/wikipedia/en/f/f9/Twix-Wrapper-Small.jpg"
+        },
+        {
+            "id":6,
+            "name":"Bounty",
+            "description":"Ciocolata cu lapte si cocos",
+            "price":20,
+            "author_id":1,
+            "photo_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kff.co.uk%2Fbounty%2Fp%2F576&psig=AOvVaw1Jh0pcuUmJaF4BwO79XyA2&ust=1731322465606000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjftOiT0IkDFQAAAAAdAAAAABAE"
+        },
+        {
+            "id":7,
+            "name":"Haribo",
+            "description":"Jeleuri",
+            "price":30,
+            "author_id":1,
+            "photo_url":"https://pi.nice-cdn.com/upload/image/product/large/default/44548_c54ad2c8.1024x1024.jpg"
+
+        },
+        {
+            "id":8,
+            "name":"Lion",
+            "description":"Ciocolata cu lapte,caramel,napolitana",
+            "price":20,
+            "author_id":1,
+            "photo_url":"https://eu.germanfoods.shop/media/image/product/4688/lg/lion-snack-size-multipack-5er.jpg"
+        },
+        {
+            "id":9,
+            "name":"Skittles",
+            "description":"Bomboane",
+            "price":25,
+            "author_id":1,
+            "photo_url":"https://www.skittles.co.uk/sites/g/files/fnmzdf831/files/migrate-product-files/kajxejhhseoyrouvvgg9.png"
+
+        },
+        {
+            "id":10,
+            "name":"Chupa chups",
+            "description":"Acadea",
+            "price":15,
+            "author_id":1,
+            "photo_url":"https://m.media-amazon.com/images/I/51T0MvyFNmL.jpg"
+        }
+    ]
+}
